@@ -1,2 +1,1 @@
-Live App
-https://your-app-name.streamlit.ap
+Live App: https://idaproject-eqf2kvgbyaeqp8bvgzhlvm.streamlit.app/
